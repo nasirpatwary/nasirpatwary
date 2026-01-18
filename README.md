@@ -1,8 +1,6 @@
 # Nasir Hossain
 <a href="https://www.linkedin.com/in/nasir22/">
-<p align="center">
   <img src="cover.png" width="100%" alt="Nasir Patwary Banner" />
-</p>
 </a>
 
 
