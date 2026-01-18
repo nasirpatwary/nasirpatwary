@@ -1,6 +1,8 @@
 # Nasir Hossain
 <a href="https://www.linkedin.com/in/nasir22/">
-<img src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee6afc69-dd86-49d0-9e71-fa38868bbe42" />
+<p align="center">
+  <img src="cover.png" width="100%" alt="Nasir Patwary Banner" />
+</p>
 </a>
 
 
