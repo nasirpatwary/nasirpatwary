@@ -1,6 +1,6 @@
 # Nasir Hossain
 <a href="https://www.linkedin.com/in/nasir22/">
-<img src="https://raw.githubusercontent.com/nasirpatwary/mir-hussain/main/images/cover.svg" />
+<img src="https://raw.githubusercontent.com/nasirpatwary/nasirpatwary/main/images/cover.svg" />
 </a>
 
 
