@@ -89,7 +89,7 @@ ScholarStream is a modern, responsive educational platform built with React, des
 **Backend & Auth:**
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) (Authentication & Hosting)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ---
 
 ### 💻 Local Setup Guide
