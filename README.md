@@ -98,4 +98,4 @@ Follow these steps to get this project running on your local machine:
 
 1. **Clone the project:**
    ```bash
-   git clone https://github.com/nasirpatwary/scholar-stream.git
+   git clone https://github.com/nasirpatwary/scholar-stream-assignment.git
