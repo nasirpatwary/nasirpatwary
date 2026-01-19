@@ -9,7 +9,7 @@
 ### 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me:
-I am a **Full Stack Developer** focused on building performant, scalable web applications and clean user interfaces. I specialize in modern JavaScript frameworks and robust backend architectures. My approach to development centers on writing maintainable code, optimizing performance, and staying at the forefront of emerging technologies to solve complex engineering challenges.
+I am a **Full Stack Developer** specializing in performant, SEO-friendly web apps using Next.js & React. I focus on scalable backend architectures, maintainable code, and optimizing user experience while solving complex engineering challenges.
 
 ## ⚡ Current Activities
 - 🏗️ **Working on:** A high-performance **Tourism & Travel platform** using modern web standards.
