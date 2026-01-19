@@ -54,51 +54,5 @@ I am a **Full Stack Developer** focused on building performant, scalable web app
 ### 🔥 Activity Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasirpatwary&theme=tokyonight)
 
-# 🌍 Tourism Explorer – Live Project
 
-A comprehensive web application designed to provide users with seamless travel bookings and destination insights.
 
-[🔗 View Live Project](https://your-live-link.com) | [🎬 Watch Demo Video](https://your-video-link.com)
-
----
-
-### 📸 Project Screenshot
-<p align="center">
-  <img src="screenshot.png" width="100%" alt="Project Screenshot" />
-</p>
-
----
-
-### 🚀 Core Features
-- **Dynamic Routing:** Seamless navigation using Next.js App Router.
-- **Search & Filter:** Advanced filtering for travel packages based on price and location.
-- **User Authentication:** Secure login/signup using Firebase or NextAuth.
-- **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop.
-
----
-
-### 🛠 Technologies & Dependencies
-
-**Frontend:**
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
-
-**Backend & Database:**
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-**Main Dependencies:**
-- `framer-motion` (for animations)
-- `react-hook-form` (for validation)
-- `axios` (for API calls)
-
----
-
-### 💻 Local Setup Guide
-
-Follow these steps to run the project on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/nasirpatwary/your-repo-name.git](https://github.com/nasirpatwary/your-repo-name.git)
